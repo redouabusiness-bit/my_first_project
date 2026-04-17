@@ -34,6 +34,8 @@ if user_ask == result:
 else:
     print(f"sorry, input for you doesn't selected for computer selected\n")
     print(f"your computer input is: {result}")
+    books = ["1_book", "2_book", "3_book", "4_book", "5_book", "6_book",]
+    
      
     
 
